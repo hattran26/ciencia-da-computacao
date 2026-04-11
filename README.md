@@ -74,7 +74,7 @@ Este curso contém conteúdos que seriam vistos em um curso de Ciência da Compu
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil. Entretanto,
 os cursos presentes na grade seguem os seguintes critérios:
 
-**Bases para a criação do Currículo (Guidelines):**
+**Bases para a criação do Currículo (Guidelines):**.
 
 Levamos em consideração - apesar de não termos implementado completamente conforme sugerido - os seguintes documentos sobre a formação de um currículo
 em Ciência da Computação. Continuaremos constantemente trabalhando e aceitando sugestões de melhorias para cada vez mais oferecer uma experiência
